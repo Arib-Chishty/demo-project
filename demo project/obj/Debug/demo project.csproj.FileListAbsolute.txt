@@ -1,0 +1,7 @@
+D:\ARIB\C#\random code\demo project\demo project\bin\Debug\demo project.exe.config
+D:\ARIB\C#\random code\demo project\demo project\bin\Debug\demo project.exe
+D:\ARIB\C#\random code\demo project\demo project\bin\Debug\demo project.pdb
+D:\ARIB\C#\random code\demo project\demo project\obj\Debug\demo project.csproj.AssemblyReference.cache
+D:\ARIB\C#\random code\demo project\demo project\obj\Debug\demo project.csproj.CoreCompileInputs.cache
+D:\ARIB\C#\random code\demo project\demo project\obj\Debug\demo project.exe
+D:\ARIB\C#\random code\demo project\demo project\obj\Debug\demo project.pdb
